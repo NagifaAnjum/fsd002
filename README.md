@@ -1,5 +1,5 @@
 # fsd002
-HTML link connect and Inline and Internal CSS
+HTML File paths with Inline and Internal CSS
 
 Live preview
 https://nagifaanjum.github.io/fsd002/
